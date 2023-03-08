@@ -24,8 +24,7 @@ This is a solution to mms-shop that I code along with [MMSIT](https://www.facebo
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Deploy on nelify](https://dashing-sawine-25edf3.netlify.app/)
 
 ## My process
 
