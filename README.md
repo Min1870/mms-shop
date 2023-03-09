@@ -31,6 +31,8 @@ This is a solution to mms-shop that I code along with [MMSIT](https://www.facebo
 ### Built with
 
 - React
+- Tailwindcss
+- vite
 
 ### What I learned
 
